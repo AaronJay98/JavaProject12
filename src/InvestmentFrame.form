@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="InvestmentFrame">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="752" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="62714" class="javax.swing.JLabel" binding="savingsAmount">
+        <constraints/>
+        <properties>
+          <text value="Initial Savings Amount"/>
+        </properties>
+      </component>
+      <component id="7ccb8" class="javax.swing.JTextField" binding="savingsField">
+        <constraints/>
+        <properties>
+          <columns value="10"/>
+          <text value="5.0"/>
+        </properties>
+      </component>
+      <component id="c8e99" class="javax.swing.JLabel" binding="rateLabel">
+        <constraints/>
+        <properties>
+          <text value="Annual Interest Rate:"/>
+        </properties>
+      </component>
+      <component id="8d967" class="javax.swing.JTextField" binding="rateField">
+        <constraints/>
+        <properties>
+          <columns value="10"/>
+          <text value="5.0"/>
+        </properties>
+      </component>
+      <component id="45bcc" class="javax.swing.JLabel" binding="numYears">
+        <constraints/>
+        <properties>
+          <text value="Number of Years"/>
+        </properties>
+      </component>
+      <component id="a8623" class="javax.swing.JTextField" binding="yearsField">
+        <constraints/>
+        <properties>
+          <columns value="10"/>
+          <text value="5.0"/>
+        </properties>
+      </component>
+      <component id="51fac" class="javax.swing.JButton" binding="calculateButton">
+        <constraints/>
+        <properties>
+          <text value="Calculate"/>
+        </properties>
+      </component>
+      <component id="47008" class="javax.swing.JLabel" binding="resultLabel">
+        <constraints/>
+        <properties>
+          <text value="balence: 0.0"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

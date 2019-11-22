@@ -63,6 +63,10 @@ public class BarChart extends JPanel
         BarChart chart = new BarChart();
         chart.addBar(Color.red, 100);
         chart.addBar(Color.green, 8);
+        chart.addBar(Color.red, 100);
+        chart.addBar(Color.green, 8);
+        chart.addBar(Color.blue, 54);
+        chart.addBar(Color.black, 23);
         chart.addBar(Color.blue, 54);
         chart.addBar(Color.black, 23);
         frame.getContentPane().add(chart);

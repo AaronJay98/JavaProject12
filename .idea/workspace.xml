@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eefc1773-a742-40b9-9d0c-d735a15d4cdc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BarChart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/ClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/Frame.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/InvestmentFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/InvestmentFrame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/InvestmentFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/InvestmentFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/MyFrame$MyListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment12/MyFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InvestmentFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/InvestmentFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BarChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BarChart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InvestmentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InvestmentFrame.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574400580384</updated>
-      <workItem from="1574400583210" duration="8901000" />
+      <workItem from="1574400583210" duration="10742000" />
     </task>
     <servers />
   </component>
